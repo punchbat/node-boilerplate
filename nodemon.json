@@ -1,0 +1,7 @@
+{
+	"ignore": ["node_modules", ".git", "client/**/*.*", "apps/locales/**/*.*"],
+	"__exec": "nodejs-dashboard node apps/server/index.js",
+	"verbose": false,
+	"watch": ["apps/server", "config.js", "webpack.*.config.js"],
+	"ext": "js json"
+}
