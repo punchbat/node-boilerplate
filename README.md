@@ -6,7 +6,7 @@ Some decription
 
 **Server-side**
 
--   [x] **[Node.JS](https://nodejs.org)** v10.x.x
+-   [x] **[Node.JS](https://nodejs.org)** v14.17.1
 -   [x] **[Express](https://github.com/expressjs/express)**
 -   [x] [MongoDB](https://www.mongodb.com/) with [Mongoose](https://github.com/Automattic/mongoose)
 -   [x] [NodeMailer](https://github.com/nodemailer/nodemailer) with SMTP, MailGun or SendGrid
